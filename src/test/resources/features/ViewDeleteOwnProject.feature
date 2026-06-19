@@ -1,3 +1,4 @@
+
 Feature: Melihat Projek yang Telah di Upload
   Scenario:
     Given Saya sudah login ke aplikasi SIMPAD
@@ -8,6 +9,11 @@ Feature: Melihat Projek yang Telah di Upload
     And Saya memberikan role "Front-end", "Back-end", dan "UI/UX" secara berurutan
     And Saya menekan tombol Post
     And Project harus berhasil dipublikasikan
+    And Saya melakukan scroll di halaman profil saya
+    When Saya menekan tombol Explore PAD untuk ke halaman project
+    And Saya melakukan scroll di halaman detail project
+    And Saya membuka menu Project
+    And Saya melakukan scroll untuk melihat daftar project
     And Saya membuka menu profil dan masuk ke halaman profil saya
     And Saya melakukan scroll di halaman profil saya
     And Saya menekan tombol Edit Project
