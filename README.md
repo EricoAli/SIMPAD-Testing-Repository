@@ -1,3 +1,5 @@
+Testcase: https://docs.google.com/spreadsheets/d/1j0Sdr_PZb7kdyj3QQwskqI-hdqyOpRyZ/edit?usp=sharing&ouid=111617137598121528257&rtpof=true&sd=true
+
 # SIMPAD Testing Repository — Setup Guide
 
 Panduan ini menjelaskan langkah-langkah untuk melakukan clone, menjalankan, dan berkontribusi ke repository SIMPAD Testing menggunakan IntelliJ IDEA.
